@@ -8,9 +8,11 @@ To ensure this graphic work smoothly, use `Google Chrome` or `Microsoft Edge`
 
 ## Link to Github Page
 
-Use this link to play the game: https://chorkhieng.github.io/Hole-in-the-Ground/
+Use this link to play the game: https://chorkhieng.github.io/Hole-in-the-Ground/  
 
-## Sample Scence  
+Use arrow keys to move the hole. When an object fell into the hole, hole's radius will increase.
+
+## Sample Scene  
 
 Start Scene  
 ![Start Scene](screenshots/main_scene.png)
