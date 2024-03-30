@@ -17,5 +17,5 @@ Use arrow keys to move the hole. When an object fell into the hole, hole's radiu
 Start Scene  
 ![Start Scene](screenshots/main_scene.png)
 
-Explosion in the sky when the ship collides with mine(s)
+Second scene with textured objects and angular velocity
 ![Texture Scene](screenshots/texture_scene.png)
