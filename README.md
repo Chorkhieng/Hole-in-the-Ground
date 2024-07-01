@@ -1,6 +1,4 @@
-# Hole in the Ground
-
-Assignment 2 from CSCI-4611: Programming Interactive Computer Graphics and Games, University of Minnesota Twin Cities.  
+# Hole in the Ground    
 The purpose of this game is about learning to use `Vector` in 3D graphics and physical simulations.
 
 ## Recommendation
